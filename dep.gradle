@@ -1,0 +1,7 @@
+ext {
+    projectCompileSdkVersion = 29
+    projectBuildToolsVersion = "29.0.2"
+    projectTargetSdkVersion = 29
+    projectMinSdkVersion = 28
+    kotlin = "1.4.10"
+}
